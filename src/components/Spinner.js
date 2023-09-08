@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import  loading from './Spinner-1s-30px.gif'
 const Spinner =()=>{
   
